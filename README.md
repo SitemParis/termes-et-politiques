@@ -2,7 +2,6 @@
 Cette politique de confidentialité décrit nos politiques et procédures de la collecte, l'utilisation et la divulgation de vos informations lorsque vous utilisez le service et vous informe sur vos droits en matière de confidentialité et sur la manière dont la loi vous protège.
 
 Nous utilisons vos données personnelles pour fournir et améliorer le service. En utilisant le service, vous acceptez la collecte et l'utilisation des informations conformément à la présente politique de confidentialité.
-Cette Politique de confidentialité a été créée avec l'aide du [Générateur gratuit de politique de confidentialité] (https://www.freeprivacypolicy.com/free-privacy-policy-generator/).
 
 Interprétation et définitions  
 ==============================
