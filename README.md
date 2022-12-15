@@ -218,6 +218,8 @@ Nous vous en informerons par courrier électronique et/ou par un avis bien visib
 Nous vous conseillons de consulter régulièrement la présente politique de confidentialité pour prendre connaissance de toute modification.
 Les modifications apportées à la présente politique de confidentialité entrent en vigueur lorsqu'elles sont publiées sur cette page.
 
+
+
 Nous contacter  
 ==========
 
