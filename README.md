@@ -130,18 +130,6 @@ Nous pouvons partager sos informations personnelles dans les situations suivante
        qui suit immédiatement. L'utilisateur doit donc pouvoir ignorer le communiqué via un
        bouton "Fermer" ou en balayant d'écran, par exemple
   
- Utilisation de la géolocalisation
-----------------------------------
-* L'entreprise utilise des données de géolocalisation pourle suivi des techniciens sur terrain . Les données partagées de l'application au tableau de bord d'administration sont cryptées et ne sont pas accessibles au public. 
-La position est l'une des fonctionnalités de l'application, et la prise ou l'exécution de ce service en mode premier plan n'est pas possible en raison des cycles de vie de l'application.
-* l'emplacement est activé uniquement lorsque l'application s'exécute en mode premier plan.
-* L'emplacement en arrière-plan est nécessaire pour l'utilisation de l'emplacement exact de l'utilisateur.
-* L'application n'a pas besoin de l'emplacement d'arrière-plan pour afficher des publicités ou des données partagées similaires en mode diffusion.
-* Seul le présentateur doit accéder à l'emplacement en arrière-plan.
-* Les données de géolocalisation seront utilisées seulement pour l’application,
-elles ne seront en aucun cas diffusées ou exploitées.
-* Time connect ne collecte pas les données de localisation pour permettre le suivi de l'activité des
- techniciens même lorsque l'application est fermée ou inutilisée
  
   
   
